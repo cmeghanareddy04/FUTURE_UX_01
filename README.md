@@ -104,21 +104,21 @@ Cold Brew
 
 ## Screens Included
 
-* Splash Screen
+## Splash Screen
   <img width="392" height="862" alt="coffe cafe" src="https://github.com/user-attachments/assets/809f4ba2-abcc-4e15-b2f1-c64ea3b2cf5d" />
-* Login
+## Login
 * <img width="392" height="862" alt="iPhone 13   14 - 1" src="https://github.com/user-attachments/assets/479c746b-b14a-4d15-b96e-c293a3729f57" />
-* Sign Up
+## Sign Up
 * <img width="393" height="862" alt="iPhone 13   14 - 4" src="https://github.com/user-attachments/assets/a9c9140c-53c0-4def-829f-0a7b400345ec" />
-* Home
+## Home
 * <img width="392" height="862" alt="iPhone 13   14 - 3" src="https://github.com/user-attachments/assets/18eb01bc-02ba-4eb5-8e32-2da8351fcd37" />
-* Product Details
+## Product Details
 * <img width="392" height="862" alt="iPhone 13   14 - 5" src="https://github.com/user-attachments/assets/1c4a6467-a969-4cc0-9b2e-a1991c27123f" />
-* Cart
+## Cart
 * <img width="392" height="862" alt="iPhone 13   14 - 6" src="https://github.com/user-attachments/assets/b13e5578-3c80-4493-bac5-4bf02ee90184" />
-* Payment
+## Payment
 * <img width="392" height="861" alt="iPhone 13   14 - 7" src="https://github.com/user-attachments/assets/adb36e66-aa9f-47a8-975b-3340fe63aa3b" />
-* Order Success
+## Order Success
 * <img width="392" height="862" alt="iPhone 13   14 - 8" src="https://github.com/user-attachments/assets/7e80a9f0-394f-4786-80f2-dc2de18de448" />
 
 ---
