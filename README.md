@@ -106,16 +106,22 @@ Many coffee ordering applications have complex interfaces and lengthy ordering p
 
 ### Login
 <img width="392" height="862" alt="iPhone 13   14 - 1" src="https://github.com/user-attachments/assets/eaf672d5-883f-4a91-a9d8-43fefc56ece6" />
+
 ### Sign Up
 <img width="393" height="862" alt="iPhone 13   14 - 4" src="https://github.com/user-attachments/assets/8248256c-a844-4f40-ab69-02e445453116" />
+
 ### Home
 <img width="392" height="862" alt="iPhone 13   14 - 3" src="https://github.com/user-attachments/assets/439a07c0-2bbc-4c7c-8875-f9d66e46dcee" />
+
 ### Product Details
 <img width="392" height="862" alt="iPhone 13   14 - 5" src="https://github.com/user-attachments/assets/af3296bc-5903-4c07-a107-ebb18a583f5e" />
+
 ### Cart
 <img width="392" height="862" alt="iPhone 13   14 - 6" src="https://github.com/user-attachments/assets/3f892915-384a-4b5c-998e-21203c8f2004" />
+
 ### Payment
 <img width="392" height="861" alt="iPhone 13   14 - 7" src="https://github.com/user-attachments/assets/232357e2-2bfb-4a4e-b319-feb41464ab9e" />
+
 ### Order Success
 <img width="392" height="862" alt="iPhone 13   14 - 8" src="https://github.com/user-attachments/assets/01dfba16-fff6-44e3-a464-1a93229ff96c" />
 
